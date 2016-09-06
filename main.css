@@ -17,5 +17,5 @@ article {
 
 article:hover {
   background: #eee;
-  cursor: pointer;
+  /* cursor: pointer; */
 }

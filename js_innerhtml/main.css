@@ -12,14 +12,15 @@ header, footer {
 }
 
 article {
-    margin-right: 150px;
+    margin-left: 80px;
     border-right: 1px solid gray;
-    padding: 10px 10px 10px 60px;
+    padding: 10px 10px 10px 10px;
+	overflow: hidden;
 }
 
 nav {
     float: right;
-    max-width: 160px;
+    width: 15%;
     margin: 0;
     padding: 1em;
 }
